@@ -1,4 +1,6 @@
-# martinmimigames
+# Martinmimigames
+
+[<img src="https://martinmimigames.github.io/res/logo/mggames/broken-vines-dark.png" alt="our logo" width="50%"/>](https://martinmimigames.github.io/res/logo/mggames/broken-vines-dark.png)
 
 Despite our name, we make more utilities than games.
 
