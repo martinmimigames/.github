@@ -4,12 +4,26 @@
 
 Despite our name, we make more utilities than games.
 
+## Our Homepage
+
+[https://martinmimigames.github.io](https://martinmimigames.github.io)
+
+## Descriptions
+
 We are a relatively small organisation, and do small and simple things.
 
-Our aim is to provide compact, compatible, but modern applications to users, giving purpose back to older hardware.
+Our Mission is to provide compact, compatible, but modern applications to users, giving purpose back to older hardware. 
 
-Check out one of our best products: [Little Music Player](https://martinmimigames.github.io/projects/little-music-player).
+## Check out our best products
+
+- [Little Music Player](https://martinmimigames.github.io/projects/little-music-player)
+- [Little File Explorer](https://martinmimigames.github.io/projects/little-file-explorer)
+- [Tiny Music PLayer](https://martinmimigames.github.io/projects/tiny-music-player)
+
+## Contributions
 
 We welcome any contributions to our products.
 
-More detail can be found in [our official website](https://martinmimigames.github.io).
+## Contacts
+
+- Email: martinmimigames@gmail.com
